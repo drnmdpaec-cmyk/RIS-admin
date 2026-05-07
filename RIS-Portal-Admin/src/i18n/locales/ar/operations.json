@@ -1,0 +1,17 @@
+{
+  "title": "العمليات",
+  "dashboard": "لوحة التحكم",
+  "todayAppointments": "مواعيد اليوم",
+  "pendingConfirmations": "بانتظار التأكيد",
+  "awaitingDelivery": "بانتظار التسليم",
+  "criticalFindings": "نتائج حرجة",
+  "departmentLoad": "حمل القسم",
+  "next7Days": "الأيام السبعة القادمة",
+  "todaySchedule": "جدول اليوم",
+  "quickActions": "إجراءات سريعة",
+  "confirmPendingBookings": "تأكيد الحجوزات المعلقة",
+  "deliverSignedReports": "تسليم التقارير الموقّعة",
+  "generateDailyReport": "إنشاء التقرير اليومي",
+  "scheduleView": "عرض الجدول",
+  "departmentLoadView": "حمل القسم"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Analytics",
+  "overview": "Overview",
+  "operationalMetrics": "Operational Metrics",
+  "portalAdoption": "Portal Adoption",
+  "exports": "Exports",
+  "totalAppointments": "Total Appointments",
+  "avgTurnaround": "Avg. Turnaround Time",
+  "hours": "hours",
+  "portalAdoptionRate": "Portal Adoption Rate",
+  "noShowRate": "No-Show Rate",
+  "appointmentVolume": "Appointment Volume",
+  "scanMix": "Scan Type Mix",
+  "departmentLoadByHour": "Dept. Load by Hour",
+  "turnaroundDistribution": "Turnaround Distribution",
+  "exportPdf": "Export PDF Report",
+  "exportExcel": "Export Excel",
+  "exportCsv": "Export CSV"
+}

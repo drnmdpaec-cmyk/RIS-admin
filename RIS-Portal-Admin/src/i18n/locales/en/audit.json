@@ -1,0 +1,23 @@
+{
+  "title": "Audit Log",
+  "securityEvents": "Security Events",
+  "phiAccessReport": "PHI Access Report",
+  "complianceReport": "Compliance Report",
+  "timestamp": "Timestamp",
+  "user": "User",
+  "action": "Action",
+  "resource": "Resource",
+  "ipAddress": "IP Address",
+  "userAgent": "User Agent",
+  "result": "Result",
+  "success": "Success",
+  "failure": "Failure",
+  "exportCsv": "Export CSV",
+  "readOnly": "Audit logs are read-only and cannot be modified.",
+  "failedLogins": "Failed Logins (24h)",
+  "lockedAccounts": "Locked Accounts",
+  "suspiciousPatterns": "Suspicious Patterns",
+  "activeSessions": "Active Sessions",
+  "forceLogout": "Force Logout",
+  "savedSearches": "Saved Searches"
+}

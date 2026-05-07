@@ -1,0 +1,29 @@
+{
+  "title": "المواعيد",
+  "pendingConfirmations": "الحجوزات الإلكترونية المعلقة",
+  "calendar": "التقويم",
+  "scanType": "نوع الفحص",
+  "requestedDateTime": "التاريخ والوقت المطلوب",
+  "clinicalIndication": "المؤشر السريري",
+  "confirmationCode": "رمز التأكيد",
+  "bookingTimestamp": "وقت الحجز",
+  "confirm": "تأكيد",
+  "reschedule": "إعادة الجدولة",
+  "reject": "رفض",
+  "bulkConfirm": "تأكيد {{count}} مواعيد",
+  "bulkConfirmMessage": "سيتم إخطار المرضى عبر البريد الإلكتروني والرسائل النصية.",
+  "confirmed": "تم تأكيد موعد {{name}}",
+  "status": {
+    "PENDING": "معلّق",
+    "CONFIRMED": "مؤكَّد",
+    "IN_PROGRESS": "جارٍ",
+    "COMPLETED": "مكتمل",
+    "CANCELLED": "ملغى",
+    "NO_SHOW": "غياب"
+  },
+  "views": {
+    "day": "يوم",
+    "week": "أسبوع",
+    "month": "شهر"
+  }
+}

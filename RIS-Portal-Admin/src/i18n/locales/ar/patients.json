@@ -1,0 +1,27 @@
+{
+  "title": "المرضى",
+  "civilId": "الرقم المدني",
+  "dateOfBirth": "تاريخ الميلاد",
+  "age": "العمر",
+  "portalStatus": "حالة البوابة",
+  "registered": "مسجّل",
+  "notRegistered": "غير مسجّل",
+  "lastAppointment": "آخر موعد",
+  "totalAppointments": "مجموع المواعيد",
+  "editPatient": "تعديل بيانات المريض",
+  "disablePortalAccess": "تعطيل الوصول للبوابة",
+  "mergePatients": "دمج السجلات",
+  "resendInvite": "إعادة إرسال دعوة البوابة",
+  "forcePasswordReset": "إجبار إعادة تعيين كلمة المرور",
+  "tabs": {
+    "overview": "نظرة عامة",
+    "appointments": "المواعيد",
+    "reports": "التقارير",
+    "documents": "المستندات",
+    "portalAccess": "الوصول للبوابة",
+    "audit": "سجل التدقيق"
+  },
+  "mergeTitle": "دمج سجلات المرضى",
+  "mergeWarning": "هذا الإجراء لا يمكن التراجع عنه. ستنتقل جميع المواعيد والتقارير إلى السجل المُبقى عليه.",
+  "mergeConfirm": "اكتب الرقم المدني للسجل المراد دمجه (وحذفه) للتأكيد:"
+}

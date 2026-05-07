@@ -1,0 +1,10 @@
+{
+  "notFound": "الصفحة غير موجودة",
+  "notFoundDescription": "الصفحة التي تبحث عنها غير موجودة.",
+  "forbidden": "الوصول مرفوض",
+  "forbiddenDescription": "ليس لديك صلاحية لعرض هذه الصفحة.",
+  "serverError": "خطأ في الخادم",
+  "serverErrorDescription": "حدث خطأ ما. الرجاء المحاولة مجددًا.",
+  "goHome": "الذهاب للوحة التحكم",
+  "tryAgain": "حاول مجددًا"
+}

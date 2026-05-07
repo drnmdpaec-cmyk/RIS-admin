@@ -1,0 +1,25 @@
+{
+  "title": "Reports",
+  "pendingDelivery": "Reports Awaiting Delivery",
+  "deliveryHistory": "Delivery History",
+  "studyDate": "Study Date",
+  "signedAt": "Signed",
+  "signedBy": "Signed By",
+  "deliveredAt": "Delivered",
+  "timeElapsed": "Elapsed",
+  "hasSummary": "Has Summary",
+  "clinicalSummaryEn": "Clinical Summary (English)",
+  "clinicalSummaryAr": "Clinical Summary (Arabic)",
+  "criticalFinding": "Critical Finding",
+  "deliverToPatient": "Deliver to Patient",
+  "deliverAllWithSummaries": "Deliver All with Summaries",
+  "summaryRequired": "Clinical summary is required before delivery",
+  "delivered": "Report delivered to patient portal",
+  "bulkDelivered": "{{count}} reports delivered",
+  "status": {
+    "DRAFT": "Draft",
+    "SIGNED": "Signed",
+    "DELIVERED": "Delivered",
+    "CRITICAL": "Critical"
+  }
+}

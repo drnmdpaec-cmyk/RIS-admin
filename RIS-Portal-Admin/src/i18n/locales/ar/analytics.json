@@ -1,0 +1,19 @@
+{
+  "title": "التحليلات",
+  "overview": "نظرة عامة",
+  "operationalMetrics": "مؤشرات التشغيل",
+  "portalAdoption": "اعتماد البوابة",
+  "exports": "التصدير",
+  "totalAppointments": "إجمالي المواعيد",
+  "avgTurnaround": "متوسط وقت الدوران",
+  "hours": "ساعة",
+  "portalAdoptionRate": "معدل اعتماد البوابة",
+  "noShowRate": "معدل الغياب",
+  "appointmentVolume": "حجم المواعيد",
+  "scanMix": "توزيع أنواع الفحص",
+  "departmentLoadByHour": "حمل القسم بالساعة",
+  "turnaroundDistribution": "توزيع وقت الدوران",
+  "exportPdf": "تصدير تقرير PDF",
+  "exportExcel": "تصدير Excel",
+  "exportCsv": "تصدير CSV"
+}

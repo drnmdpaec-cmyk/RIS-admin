@@ -1,0 +1,25 @@
+{
+  "title": "التقارير",
+  "pendingDelivery": "تقارير بانتظار التسليم",
+  "deliveryHistory": "سجل التسليم",
+  "studyDate": "تاريخ الفحص",
+  "signedAt": "تاريخ التوقيع",
+  "signedBy": "وقّعه",
+  "deliveredAt": "تاريخ التسليم",
+  "timeElapsed": "الوقت المنقضي",
+  "hasSummary": "يحتوي على ملخص",
+  "clinicalSummaryEn": "الملخص السريري (بالإنجليزية)",
+  "clinicalSummaryAr": "الملخص السريري (بالعربية)",
+  "criticalFinding": "نتيجة حرجة",
+  "deliverToPatient": "تسليم للمريض",
+  "deliverAllWithSummaries": "تسليم كل ذات الملخصات",
+  "summaryRequired": "الملخص السريري مطلوب قبل التسليم",
+  "delivered": "تم تسليم التقرير لبوابة المريض",
+  "bulkDelivered": "تم تسليم {{count}} تقرير",
+  "status": {
+    "DRAFT": "مسودة",
+    "SIGNED": "موقَّع",
+    "DELIVERED": "مُسلَّم",
+    "CRITICAL": "حرج"
+  }
+}

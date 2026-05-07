@@ -1,0 +1,10 @@
+{
+  "notFound": "Page Not Found",
+  "notFoundDescription": "The page you're looking for doesn't exist.",
+  "forbidden": "Access Denied",
+  "forbiddenDescription": "You don't have permission to view this page.",
+  "serverError": "Server Error",
+  "serverErrorDescription": "Something went wrong. Please try again.",
+  "goHome": "Go to Dashboard",
+  "tryAgain": "Try Again"
+}

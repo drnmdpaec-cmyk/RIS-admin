@@ -1,0 +1,27 @@
+{
+  "title": "Patients",
+  "civilId": "Civil ID",
+  "dateOfBirth": "Date of Birth",
+  "age": "Age",
+  "portalStatus": "Portal Status",
+  "registered": "Registered",
+  "notRegistered": "Not Registered",
+  "lastAppointment": "Last Appointment",
+  "totalAppointments": "Total Appointments",
+  "editPatient": "Edit Patient",
+  "disablePortalAccess": "Disable Portal Access",
+  "mergePatients": "Merge Records",
+  "resendInvite": "Resend Portal Invite",
+  "forcePasswordReset": "Force Password Reset",
+  "tabs": {
+    "overview": "Overview",
+    "appointments": "Appointments",
+    "reports": "Reports",
+    "documents": "Documents",
+    "portalAccess": "Portal Access",
+    "audit": "Audit"
+  },
+  "mergeTitle": "Merge Patient Records",
+  "mergeWarning": "This action is irreversible. All appointments and reports will be migrated to the surviving record.",
+  "mergeConfirm": "Type the Civil ID of the record to be merged (and removed) to confirm:"
+}

@@ -1,0 +1,29 @@
+{
+  "title": "Appointments",
+  "pendingConfirmations": "Pending Online Bookings",
+  "calendar": "Calendar",
+  "scanType": "Scan Type",
+  "requestedDateTime": "Requested Date/Time",
+  "clinicalIndication": "Clinical Indication",
+  "confirmationCode": "Confirmation Code",
+  "bookingTimestamp": "Booking Time",
+  "confirm": "Confirm",
+  "reschedule": "Reschedule",
+  "reject": "Reject",
+  "bulkConfirm": "Confirm {{count}} appointments",
+  "bulkConfirmMessage": "Patients will be notified via email and SMS.",
+  "confirmed": "Appointment confirmed for {{name}}",
+  "status": {
+    "PENDING": "Pending",
+    "CONFIRMED": "Confirmed",
+    "IN_PROGRESS": "In Progress",
+    "COMPLETED": "Completed",
+    "CANCELLED": "Cancelled",
+    "NO_SHOW": "No Show"
+  },
+  "views": {
+    "day": "Day",
+    "week": "Week",
+    "month": "Month"
+  }
+}

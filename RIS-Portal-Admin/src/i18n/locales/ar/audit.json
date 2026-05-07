@@ -1,0 +1,23 @@
+{
+  "title": "سجل التدقيق",
+  "securityEvents": "أحداث الأمان",
+  "phiAccessReport": "تقرير الوصول للمعلومات الصحية",
+  "complianceReport": "تقرير الامتثال",
+  "timestamp": "التوقيت",
+  "user": "المستخدم",
+  "action": "الإجراء",
+  "resource": "المورد",
+  "ipAddress": "عنوان IP",
+  "userAgent": "المتصفح",
+  "result": "النتيجة",
+  "success": "نجاح",
+  "failure": "فشل",
+  "exportCsv": "تصدير CSV",
+  "readOnly": "سجلات التدقيق للقراءة فقط ولا يمكن تعديلها.",
+  "failedLogins": "محاولات الدخول الفاشلة (24 ساعة)",
+  "lockedAccounts": "الحسابات المقفلة",
+  "suspiciousPatterns": "أنماط مشبوهة",
+  "activeSessions": "الجلسات النشطة",
+  "forceLogout": "إجبار تسجيل الخروج",
+  "savedSearches": "عمليات البحث المحفوظة"
+}

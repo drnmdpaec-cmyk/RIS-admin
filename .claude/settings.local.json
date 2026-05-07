@@ -1,0 +1,23 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(pnpm --version)",
+      "Bash(pnpm create *)",
+      "Bash(pnpm install *)",
+      "Bash(pnpm add *)",
+      "Bash(pnpm exec *)",
+      "Bash(pnpm build *)",
+      "Bash(pnpm dev *)",
+      "Bash(Start-Sleep -Seconds 5)",
+      "Bash(Get-Content \"C:\\\\Users\\\\96599\\\\AppData\\\\Local\\\\Temp\\\\claude\\\\C--Users-96599-Desktop-PETCT-server-6-RIS-ADMIN\\\\837ac1b7-d107-4b91-8127-be0931a069ab\\\\tasks\\\\bvclq2fm8.output\")",
+      "Bash(Get-ChildItem *)",
+      "Bash(find *)",
+      "Bash(Select-String \"manifest\")",
+      "Bash(dir \"C:\\\\Users\\\\96599\\\\Desktop\\\\PETCT server\\\\6.RIS ADMIN\\\\RIS-Portal-Admin\\\\src\")",
+      "Bash(grep -E \"\\\\.\\(ts|json\\)$\")",
+      "Bash(Select-Object FullName)",
+      "Bash(Sort-Object FullName)",
+      "PowerShell(Get-ChildItem -Path \"C:\\\\Users\\\\96599\\\\Desktop\\\\PETCT server\\\\6.RIS ADMIN\\\\RIS-Portal-Admin\\\\src\" -Recurse -File | ForEach-Object { $_.FullName })"
+    ]
+  }
+}

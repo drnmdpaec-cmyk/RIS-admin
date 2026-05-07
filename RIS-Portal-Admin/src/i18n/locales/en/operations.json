@@ -1,0 +1,17 @@
+{
+  "title": "Operations",
+  "dashboard": "Dashboard",
+  "todayAppointments": "Today's Appointments",
+  "pendingConfirmations": "Pending Confirmations",
+  "awaitingDelivery": "Awaiting Delivery",
+  "criticalFindings": "Critical Findings",
+  "departmentLoad": "Department Load",
+  "next7Days": "Next 7 Days",
+  "todaySchedule": "Today's Schedule",
+  "quickActions": "Quick Actions",
+  "confirmPendingBookings": "Confirm Pending Bookings",
+  "deliverSignedReports": "Deliver Signed Reports",
+  "generateDailyReport": "Generate Daily Report",
+  "scheduleView": "Schedule View",
+  "departmentLoadView": "Department Load"
+}

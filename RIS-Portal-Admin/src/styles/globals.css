@@ -1,0 +1,144 @@
+@import './fonts.css';
+@import 'tailwindcss';
+
+@theme {
+  /* ---------- Brand palette ---------- */
+  --color-primary-50: #EBF3FB;
+  --color-primary-100: #C7DFEF;
+  --color-primary-200: #9FC6E3;
+  --color-primary-300: #74ACD6;
+  --color-primary-400: #4E96CA;
+  --color-primary-500: #2E75B6;
+  --color-primary-600: #275FA0;
+  --color-primary-700: #1F4A89;
+  --color-primary-800: #163671;
+  --color-primary-900: #0D2459;
+  --color-primary-950: #070F33;
+
+  --color-accent-50: #E6F4F2;
+  --color-accent-100: #BDE3DE;
+  --color-accent-200: #8ACFC8;
+  --color-accent-300: #55BAB0;
+  --color-accent-400: #2DA89C;
+  --color-accent-500: #1A7A6B;
+  --color-accent-600: #16695B;
+  --color-accent-700: #115549;
+  --color-accent-800: #0C4038;
+  --color-accent-900: #072C27;
+  --color-accent-950: #031612;
+
+  --color-warning-50: #FFFBEB;
+  --color-warning-100: #FEF3C7;
+  --color-warning-200: #FDE68A;
+  --color-warning-300: #FCD34D;
+  --color-warning-400: #FBBF24;
+  --color-warning-500: #F59E0B;
+  --color-warning-600: #D97706;
+  --color-warning-700: #B45309;
+  --color-warning-800: #92400E;
+  --color-warning-900: #78350F;
+  --color-warning-950: #451A03;
+
+  --color-danger-50: #FEF2F2;
+  --color-danger-100: #FEE2E2;
+  --color-danger-200: #FECACA;
+  --color-danger-300: #FCA5A5;
+  --color-danger-400: #F87171;
+  --color-danger-500: #EF4444;
+  --color-danger-600: #DC2626;
+  --color-danger-700: #B91C1C;
+  --color-danger-800: #991B1B;
+  --color-danger-900: #7F1D1D;
+  --color-danger-950: #450A0A;
+
+  /* ---------- Cool neutral palette (Admin) ---------- */
+  --color-neutral-50: #F7F8FA;
+  --color-neutral-100: #EFF1F5;
+  --color-neutral-200: #DDE1EA;
+  --color-neutral-300: #C2C9D6;
+  --color-neutral-400: #9AA3B2;
+  --color-neutral-500: #6B7585;
+  --color-neutral-600: #505A6B;
+  --color-neutral-700: #3B4455;
+  --color-neutral-800: #252E3F;
+  --color-neutral-900: #151C2C;
+  --color-neutral-950: #0A0F1C;
+
+  /* ---------- Semantic surface tokens ---------- */
+  --color-bg: var(--color-neutral-50);
+  --color-card: #FFFFFF;
+  --color-sidebar: #F0F2F6;
+  --color-border: var(--color-neutral-200);
+  --color-text: var(--color-neutral-900);
+  --color-text-muted: var(--color-neutral-500);
+
+  /* ---------- Typography ---------- */
+  --font-sans: 'Inter', 'IBM Plex Sans Arabic', system-ui, sans-serif;
+  --font-mono: 'JetBrains Mono', 'Fira Code', monospace;
+  --font-size-base: 13px;
+  --line-height-base: 1.5;
+
+  /* ---------- Spacing / Radius ---------- */
+  --radius-sm: 4px;
+  --radius-md: 6px;
+  --radius-lg: 8px;
+  --radius-xl: 12px;
+}
+
+/* Dark theme overrides */
+.dark {
+  --color-bg: #0A0F1C;
+  --color-card: #131A2A;
+  --color-sidebar: #0E1422;
+  --color-border: #1E2A3D;
+  --color-text: #E8ECF4;
+  --color-text-muted: #8A94A6;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html {
+  font-size: var(--font-size-base);
+  line-height: var(--line-height-base);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  font-family: var(--font-sans);
+  background-color: var(--color-bg);
+  color: var(--color-text);
+  margin: 0;
+}
+
+/* RTL font override */
+:lang(ar) {
+  font-family: 'IBM Plex Sans Arabic', system-ui, sans-serif;
+}
+
+/* Mono font for IDs, accession numbers, timestamps */
+.font-mono,
+code,
+pre {
+  font-family: var(--font-mono);
+}
+
+/* Scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: var(--color-neutral-300);
+  border-radius: 3px;
+}
+.dark ::-webkit-scrollbar-thumb {
+  background: var(--color-neutral-700);
+}
